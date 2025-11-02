@@ -1,0 +1,8 @@
+flask==3.0.0
+flask-cors==4.0.0
+# Use a newer PyTorch release compatible with this Python runtime
+torch==2.7.0
+torchvision==0.24.0
+Pillow==10.1.0
+requests==2.31.0
+numpy==1.26.2

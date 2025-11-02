@@ -1,0 +1,68 @@
+[
+  {
+    "id": 0,
+    "name": "Granite",
+    "description": "An igneous rock with visible grains of quartz, feldspar, and mica. Commonly used in construction.",
+    "properties": {
+      "type": "Igneous",
+      "texture": "Coarse-grained",
+      "hardness": "6-7 (Mohs scale)",
+      "color": "Pink, gray, white"
+    }
+  },
+  {
+    "id": 1,
+    "name": "Basalt",
+    "description": "A fine-grained volcanic rock, dark in color. The most common rock type in oceanic crust.",
+    "properties": {
+      "type": "Igneous",
+      "texture": "Fine-grained",
+      "hardness": "6 (Mohs scale)",
+      "color": "Dark gray to black"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Limestone",
+    "description": "A sedimentary rock composed mainly of calcium carbonate. Often contains fossils.",
+    "properties": {
+      "type": "Sedimentary",
+      "texture": "Fine to coarse-grained",
+      "hardness": "3-4 (Mohs scale)",
+      "color": "White, gray, cream"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sandstone",
+    "description": "A sedimentary rock made of sand-sized mineral particles or rock fragments.",
+    "properties": {
+      "type": "Sedimentary",
+      "texture": "Medium-grained",
+      "hardness": "6-7 (Mohs scale)",
+      "color": "Tan, brown, red, yellow"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Marble",
+    "description": "A metamorphic rock formed from limestone under heat and pressure. Used in sculpture and architecture.",
+    "properties": {
+      "type": "Metamorphic",
+      "texture": "Crystalline",
+      "hardness": "3-4 (Mohs scale)",
+      "color": "White, pink, green, black"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Slate",
+    "description": "A fine-grained metamorphic rock that splits easily into thin sheets. Used for roofing.",
+    "properties": {
+      "type": "Metamorphic",
+      "texture": "Fine-grained, foliated",
+      "hardness": "3-4 (Mohs scale)",
+      "color": "Gray, black, green, purple"
+    }
+  }
+]
